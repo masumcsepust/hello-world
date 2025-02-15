@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgi7WQTCGpo=",
+  "success": true,
+  "projectFilePath": "/home/mouse/Desktop/projects/backends/hello-world/hello-world.csproj",
+  "expectedPackageFiles": [
+    "/home/mouse/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/mouse/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
